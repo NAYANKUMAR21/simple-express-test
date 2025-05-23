@@ -1,13 +1,14 @@
 # fileShareMe
+
 <br>
 <h4>🍁This is a file sharing website which covers all the important concepts of backend web development.</h4>
 <h4>🍁You can upload files and can generate password protected links to download those files which you can share with your friends.</h4>
 <h4>🍁You can also compress any text file (.txt) using Huffman file compression algorithm.</h4>
 <h4>🍁The website was made using Node.js and Express.js. The database used is MongoDB. And it is hosted on AWS EC2 using PM2</h4>
-<h4>🍁Website link: http://23.20.146.219</h4>
+
 <br>
 <h2>User Guide</h2>
-<h4>Visit the website from this link: http://23.20.146.219</h4>
+
 <h4>This is the home screen when you are not logged in</h4>
 <img width="960" alt="image" src="https://github.com/ViditNaithani22/fileShareMe/assets/102232954/f7075a6a-d432-43a2-851d-c48a992a7402">
 <h4>If you try to upload a file when you are not logged in, then you will be asked to login first</h4>
@@ -113,11 +114,3 @@
 <img width="632" alt="image" src="https://github.com/ViditNaithani22/fileShareMe/assets/102232954/a4e6e313-503e-4123-ba74-22d6aa623852">
 <h4>Step17: to stop the application type: pm2 stop 0 (where 0 is the index of the running application) and to restart the same application: pm2 restart 0</h4>
 <img width="619" alt="image" src="https://github.com/ViditNaithani22/fileShareMe/assets/102232954/e08b033a-8bb4-4999-99db-b678f9f32e57">
-
-
-
-
-
-
-
-
